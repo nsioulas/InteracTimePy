@@ -33,7 +33,7 @@
 - **Multiple DataFrames Support**: Merge and visualize multiple time series DataFrames.
 - **Customizable Plot Configuration**: Define subplot arrangements, axis types, and labels.
 - **Resampling**: Resample time series data to a desired frequency.
-- **Data Saving**: Save annotated intervals and statistics to files for future reference.
+- **Data Saving**: Save  intervals of interest and  for future analysis.
 
 
 
